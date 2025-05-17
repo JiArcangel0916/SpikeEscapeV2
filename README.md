@@ -3,11 +3,15 @@
 BSCS 2-2 | Group 3 
 
 
-*Leader*
+*Leader:*
+
+
 Co, Khurt Luis L.
 
 
-*Members*
+*Members:*
+
+
 Arcangel, Albrecht Zildjian A.
 
 
@@ -48,13 +52,13 @@ Welcome to ***Atari 2600 Endless Runner: Spike Escape V2***! An enhancement of t
 
 ### CONTROLS
 - **Main Menu**
-    - Spacebar/Hit - play the game
-    - Right Arrow Key (->) - proceed to character select
+    - Spacebar/Hit - Play the game
+    - Right Arrow Key (->) - Proceed to character select
 - **Character Select**
-    - Left/Right Arrow Keys (<-/->) - navigate through available characters
-    - Spacebar/Hit - select the character and play
+    - Left/Right Arrow Keys (<-/->) - Navigate through available characters
+    - Spacebar/Hit - Select the character and play
 - **In-game**
-    - Arrow Keys - drive your character through the road
+    - Arrow Keys - Drive your character through the road
 - **Game Over**
-    - Left Arrow Key (<-) - go back to main menu
-    - Spacebar/Hit - play again
+    - Left Arrow Key (<-) - Go back to main menu
+    - Spacebar/Hit - Play again
