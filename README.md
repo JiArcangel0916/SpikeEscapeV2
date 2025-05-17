@@ -2,13 +2,13 @@
 
 BSCS 2-2 | Group 3 
 
-*Leader:*
+***Leader:***
 
 
 Co, Khurt Luis L.
 
 
-*Members:*
+***Members:***
 
 
 Arcangel, Albrecht Zildjian A.
@@ -41,7 +41,7 @@ Welcome to ***Atari 2600 Endless Runner: Spike Escape V2***! An enhancement of t
 1. **Download the Game**
     - Download the `SpikeEscape.bas` file from the github repository [here](https://github.com/JiArcangel0916/SpikeEscapeV2)
 2. **Install the Essentials**
-    - Download Visual Studio Code if not already installed in your computer
+    - Download `Visual Studio Code` if not already installed in your computer
     - Open the Extensions Tab (Ctrl + Shift + X) and search for the `Atari Dev Studio` Extension and install it
 3. **Running the Game**
     - Open the `.bas` file you downloaded
@@ -49,15 +49,15 @@ Welcome to ***Atari 2600 Endless Runner: Spike Escape V2***! An enhancement of t
     - Select `bAtari Basic (batariBasic) - Configured Language` from the drop-down menu
     - Click on `Compile source code and launch [via emulator on cart]` (or F5) located at the bottom of the IDE (the spaceship icon)
 
-### CONTROLS
+## CONTROLS
 - **Main Menu**
     - `Spacebar`/`Hit` - Play the game
-    - Right Arrow Key (`Right`) - Proceed to character select
+    - `Right` Arrow Key - Proceed to character select
 - **Character Select**
-    - Left/Right Arrow Keys (`Left`/`Right`) - Navigate through available characters
+    - `Left`/`Right` Arrow Keys - Navigate through available characters
     - `Spacebar`/`Hit` - Select the character and play
 - **In-game**
     - Arrow Keys (`Up`, `Down`, `Left`, `Right`) - Drive your character through the road
 - **Game Over**
-    - Left Arrow Key (`Left`) - Go back to main menu
+    - `Left` Arrow Key - Go back to main menu
     - `Spacebar`/`Hit` - Play again
