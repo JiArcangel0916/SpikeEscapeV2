@@ -2876,8 +2876,6 @@ end
     if _OptionCounter > _ButtonDelayOffset*6 then _OptionCounter = 2
     if _OptionCounter < 1 then _OptionCounter = _ButtonDelayOffset*6
 
-    
-
     goto __Car_Select
 
     bank 4
@@ -2885,9 +2883,6 @@ end
 
     bank 5
     temp1=temp1
-
-
-
 
     bank 6
     temp1=temp1
